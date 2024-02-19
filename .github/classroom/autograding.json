@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Test 01",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 01",
       "input": "",
       "output": "",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Test 02",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 02",
       "input": "",
       "output": "",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Test 03",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 03",
       "input": "",
       "output": "",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Test 04",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 04",
       "input": "",
       "output": "",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Test 05",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 05",
       "input": "",
       "output": "",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Test 06",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 06",
       "input": "",
       "output": "",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Test 07",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 07",
       "input": "",
       "output": "",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Test 08",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 08",
       "input": "",
       "output": "",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Test 09",
-      "setup": "pip3 install pandas==1.5.2",
+      "setup": "pip3 install pandas",
       "run": "python3 tests.py 09",
       "input": "",
       "output": "",
